@@ -1,0 +1,19 @@
+﻿body {
+}
+.BackColor{
+    color:white; 
+    background-color:#363637;
+}
+.container .row{
+ margin-top:50px;
+
+}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a,.navbar-default .navbar-nav .open .dropdown-menu {
+    background-color:#3344ff;
+    color:#ffffff;
+}
+.Mbody
+{
+    background-color:#6c6b6b;
+    height:1000px;
+}
